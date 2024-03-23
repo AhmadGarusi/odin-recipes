@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+  width: auto;
+  height: 350px;
+}
+
+.list {
+  width: 670px;
+  border-style: solid;
+  border-radius: 20px;
+}
+
+ul.list {
+  background-color: blanchedalmond;
+  border-color: darkgoldenrod;
+}
+
+ol.list {
+  background-color: darkgray;
+}
+
+li {
+  font-size: larger;
+}
+
+.description {
+  font-weight: lighter;
+  width: 670px;
+}
