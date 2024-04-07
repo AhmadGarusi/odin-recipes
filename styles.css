@@ -4,5 +4,18 @@ body {
 
 .list {
   border: solid;
+  border-radius: 20px;
   background-color: bisque;
+  list-style: none;
+  padding: 20px 70px;
+}
+
+.container {
+  width: 400px;
+  margin: 40px auto;
+  text-align: center;
+}
+
+li {
+  margin-bottom: 10px;
 }
